@@ -1,0 +1,7 @@
+{
+  "/page": "app/page.js",
+  "/klublar/page": "app/klublar/page.js",
+  "/imkoniyatlar/page": "app/imkoniyatlar/page.js",
+  "/sportchilar/page": "app/sportchilar/page.js",
+  "/bildirishnomalar/page": "app/bildirishnomalar/page.js"
+}
